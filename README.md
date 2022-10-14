@@ -1,4 +1,4 @@
-# nguyenvanquan01.github.io  
+# Courses_f8
 
-## https://nguyenvanquan01.github.io/f8-shop  
-## https://nguyenvanquan01.github.io/f8-band
+## https://quannguyen0804.github.io/courses_f8/f8-shop  
+## https://quannguyen0804.github.io/courses_f8/f8-band
